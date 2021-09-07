@@ -9,6 +9,6 @@ Original file is located at
 
 import numpy as np
 import pandas as pd
-import scikitlearn
-import psycopg2
-import sqlalchemy
+!pip install -U scikit-learn
+!pip install psycopg2-binary
+import sqlalchemy as sqla
